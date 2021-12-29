@@ -5,6 +5,14 @@ position: sticky;
 top: 0px;
 z-index: 1;
 }
+.nav-link:hover{
+color: white !important;
+}
+.nav-item .active{
+  color: white !important;
+  background-color: #343a40 !important;
+}
+
 main {
   color: white;
 }
